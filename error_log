@@ -1,0 +1,203 @@
+[02-Jan-2017 09:50:46 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 6
+[02-Jan-2017 09:53:06 UTC] PHP Fatal error:  Cannot redeclare Welcome::index() in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Welcome.php on line 38
+[02-Jan-2017 09:57:46 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 09:57:46 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 09:57:48 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 09:57:59 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 09:58:49 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 09:58:50 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 10:01:02 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 10:01:04 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 10:01:04 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 10:02:55 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 10:02:55 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 10:02:56 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 12:18:49 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:19:16 UTC] PHP Fatal error:  Call to a member function getAllPetugas() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Petugas.php on line 17
+[02-Jan-2017 12:19:28 UTC] PHP Fatal error:  Call to a member function getAllPetugas() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Petugas.php on line 17
+[02-Jan-2017 12:19:52 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:20:08 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:21:08 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:21:11 UTC] PHP Fatal error:  Call to a member function getAllPetugas() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Petugas.php on line 18
+[02-Jan-2017 12:21:13 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:22:20 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:23:02 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:25:57 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:26:18 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:26:23 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 13:03:53 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 72
+[02-Jan-2017 13:04:51 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 72
+[02-Jan-2017 13:14:22 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 37
+[02-Jan-2017 13:14:47 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 36
+[02-Jan-2017 13:24:22 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 36
+[02-Jan-2017 13:24:50 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 36
+[02-Jan-2017 13:25:12 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 36
+[02-Jan-2017 13:25:50 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 36
+[02-Jan-2017 13:26:12 UTC] PHP Fatal error:  Call to a member function getAllKategori() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 17
+[02-Jan-2017 13:37:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/kategori/list.php on line 188
+[02-Jan-2017 14:23:44 UTC] PHP Fatal error:  Call to undefined method M_kategori::getKategoriByID() in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 55
+[02-Jan-2017 14:25:11 UTC] PHP Fatal error:  Call to undefined method M_kategori::getKategoriByID() in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 55
+[02-Jan-2017 14:25:18 UTC] PHP Fatal error:  Call to undefined method M_kategori::getKategoriByID() in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 55
+[02-Jan-2017 14:25:26 UTC] PHP Fatal error:  Call to undefined method M_kategori::getKategoriByID() in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 55
+[02-Jan-2017 14:53:54 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:53:55 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:53:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:53:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:53:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:53:57 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:54:10 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:55:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:55:30 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 39
+[02-Jan-2017 14:55:31 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 39
+[02-Jan-2017 14:55:39 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 39
+[02-Jan-2017 15:02:19 UTC] PHP Fatal error:  Call to undefined method M_kategori::getAlKategori() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/tarif/add.php on line 159
+[02-Jan-2017 15:27:04 UTC] PHP Fatal error:  Call to a member function getTarifByID() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tipe_mobil.php on line 55
+[02-Jan-2017 15:42:49 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Pelanggan.php on line 70
+[02-Jan-2017 15:43:53 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Pelanggan.php on line 70
+[02-Jan-2017 15:44:17 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Pelanggan.php on line 70
+[02-Jan-2017 15:44:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Pelanggan.php on line 71
+[02-Jan-2017 15:44:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Pelanggan.php on line 71
+[02-Jan-2017 15:45:07 UTC] PHP Fatal error:  Can't use function return value in write context in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Pelanggan.php on line 71
+[02-Jan-2017 20:34:59 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/kpptech/public_html/operation/yulia/knapsack/application/config/routes.php on line 53
+[02-Jan-2017 20:35:00 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/kpptech/public_html/operation/yulia/knapsack/application/config/routes.php on line 53
+[02-Jan-2017 20:35:00 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/kpptech/public_html/operation/yulia/knapsack/application/config/routes.php on line 53
+[02-Jan-2017 20:35:01 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/kpptech/public_html/operation/yulia/knapsack/application/config/routes.php on line 53
+[02-Jan-2017 20:35:01 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/kpptech/public_html/operation/yulia/knapsack/application/config/routes.php on line 53
+[02-Jan-2017 20:35:04 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/kpptech/public_html/operation/yulia/knapsack/application/config/routes.php on line 53
+[02-Jan-2017 20:35:04 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/kpptech/public_html/operation/yulia/knapsack/application/config/routes.php on line 53
+[08-Jan-2017 03:11:13 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 248
+[08-Jan-2017 03:13:35 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 248
+[08-Jan-2017 03:22:48 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 248
+[08-Jan-2017 03:23:27 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 248
+[08-Jan-2017 03:28:24 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 251
+[08-Jan-2017 03:28:25 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 251
+[08-Jan-2017 03:28:26 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 251
+[08-Jan-2017 03:38:00 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 03:38:00 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 03:38:02 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 03:38:30 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 03:39:37 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:36:12 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:36:16 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:36:17 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:36:18 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:36:31 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:37:20 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:37:23 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:37:41 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[09-Jan-2017 07:06:21 UTC] PHP Fatal error:  Call to a member function where() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 17
+[09-Jan-2017 07:07:00 UTC] PHP Fatal error:  Call to a member function where() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 17
+[09-Jan-2017 07:07:01 UTC] PHP Fatal error:  Call to a member function where() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 17
+[09-Jan-2017 07:07:01 UTC] PHP Fatal error:  Call to a member function where() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 17
+[09-Jan-2017 07:07:01 UTC] PHP Fatal error:  Call to a member function where() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 17
+[09-Jan-2017 09:01:49 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:06:02 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:06:16 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:07:26 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:07:27 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:07:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:08:26 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:09:09 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:09:34 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:09:38 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:09:41 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:12:02 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:12:11 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:12:17 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:13:00 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:13:23 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:13:52 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:13:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:14:00 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:14:36 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:14:51 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:15:48 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:16:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:16:30 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:16:55 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:17:10 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:17:11 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:18:10 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:20:15 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 30
+[09-Jan-2017 09:48:47 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/transaksi/list.php on line 201
+[10-Jan-2017 03:13:43 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 40
+[10-Jan-2017 03:15:41 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 40
+[10-Jan-2017 03:29:20 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Transaksi.php on line 102
+[10-Jan-2017 03:29:21 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Transaksi.php on line 102
+[10-Jan-2017 04:40:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Transaksi.php on line 133
+[10-Jan-2017 04:40:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Transaksi.php on line 133
+[10-Jan-2017 04:40:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Transaksi.php on line 133
+[10-Jan-2017 07:36:14 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 51
+[10-Jan-2017 07:36:26 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 51
+[10-Jan-2017 07:36:40 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 51
+[10-Jan-2017 07:36:40 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 51
+[10-Jan-2017 07:37:25 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 51
+[10-Jan-2017 08:01:37 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Transaksi.php on line 35
+[10-Jan-2017 09:34:41 UTC] PHP Fatal error:  Call to a member function lgetAllTransaksiLaporan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Laporan.php on line 24
+[10-Jan-2017 09:35:02 UTC] PHP Fatal error:  Call to a member function lgetAllTransaksiLaporan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Laporan.php on line 24
+[10-Jan-2017 09:35:14 UTC] PHP Fatal error:  Call to undefined method M_transaksi::lgetAllTransaksiLaporan() in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Laporan.php on line 24
+[10-Jan-2017 09:39:33 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[10-Jan-2017 09:40:17 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[10-Jan-2017 09:47:23 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[11-Jan-2017 03:05:40 Asia/jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 21
+[11-Jan-2017 06:00:52 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 169
+[11-Jan-2017 06:01:11 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 169
+[11-Jan-2017 06:02:34 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 233
+[11-Jan-2017 06:12:34 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 230
+[11-Jan-2017 09:07:58 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 169
+[16-Jan-2017 15:45:32 Asia/jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 48
+[16-Jan-2017 15:47:56 Asia/jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::left_join() in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 42
+[16-Jan-2017 15:47:57 Asia/jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::left_join() in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 42
+[16-Jan-2017 15:48:05 Asia/jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::left_join() in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 42
+[16-Jan-2017 15:48:05 Asia/jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::left_join() in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 42
+[16-Jan-2017 16:05:30 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 169
+[16-Jan-2017 16:07:03 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 169
+[16-Jan-2017 16:26:10 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 169
+[17-Jan-2017 10:07:47 Asia/jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kpptech/public_html/operation/yulia/knapsack/system/database/drivers/mysqli/mysqli_driver.php on line 305
+[17-Jan-2017 10:29:38 Asia/jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/transaksi/detail_approval.php on line 181
+[17-Jan-2017 10:29:39 Asia/jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/transaksi/detail_approval.php on line 181
+[17-Jan-2017 03:37:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/transaksi/detail_approval.php on line 238
+[17-Jan-2017 03:38:06 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/transaksi/detail_approval.php on line 254
+[17-Jan-2017 03:38:27 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/transaksi/detail_approval.php on line 254
+[17-Jan-2017 03:38:58 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/transaksi/detail_approval.php on line 254
+[17-Jan-2017 11:16:26 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 230
+[17-Jan-2017 11:19:33 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 230
+[17-Jan-2017 13:22:12 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[17-Jan-2017 13:22:19 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[17-Jan-2017 13:23:00 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[17-Jan-2017 13:23:30 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[18-Jan-2017 09:19:27 Asia/jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 48
+[18-Jan-2017 03:12:19 UTC] PHP Fatal error:  Call to undefined method M_umum::getAllProfil() in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Pages.php on line 21
+[18-Jan-2017 03:12:26 UTC] PHP Fatal error:  Call to a member function getAllArticleActive() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Pages.php on line 36
+[18-Jan-2017 04:27:31 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 43
+[18-Jan-2017 04:31:39 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 43
+[18-Jan-2017 04:34:06 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 43
+[18-Jan-2017 04:36:18 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 43
+[18-Jan-2017 04:37:31 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 32
+[18-Jan-2017 04:37:42 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 42
+[18-Jan-2017 04:37:57 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 43
+[18-Jan-2017 04:38:08 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 43
+[19-Jan-2017 02:29:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_umum.php on line 16
+[19-Jan-2017 02:29:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_umum.php on line 16
+[19-Jan-2017 11:05:20 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 62
+[19-Jan-2017 11:50:56 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:50:57 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:51:28 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:51:29 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:51:33 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:51:34 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:51:34 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:51:34 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:51:35 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 18:05:38 Asia/jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 48
+[21-Jan-2017 15:27:54 Asia/jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 48
+[22-Jan-2017 06:46:50 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[22-Jan-2017 06:46:52 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[22-Jan-2017 08:39:45 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[22-Jan-2017 08:39:47 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[22-Jan-2017 19:55:05 Asia/jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 48
+[23-Jan-2017 01:17:32 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[19-Apr-2017 06:36:56 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/template_web/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[19-Apr-2017 15:00:53 Asia/Jakarta] PHP Fatal error:  Call to a member function checkLoginJurnalis() on null in /home/kpptech/public_html/operation/template_android/application/controllers/api/Services.php on line 40
+[19-Apr-2017 15:01:24 Asia/Jakarta] PHP Fatal error:  Call to a member function checkLoginApps() on null in /home/kpptech/public_html/operation/template_android/application/controllers/api/Services.php on line 40
+[19-Apr-2017 15:01:37 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on null in /home/kpptech/public_html/operation/template_android/application/models/M_login.php on line 34
